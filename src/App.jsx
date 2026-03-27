@@ -1,33 +1,26 @@
+import { Suspense } from "react";
 import "./App.css";
+import Banner from "./Components/HomePage/Banner/Banner";
+import Players from "./Components/HomePage/Players/Players";
+import NavBar from "./Components/NavBar/NavBar";
+
+const fetchPlayer = async () => {
+  const res = await fetch("/data.json");
+  return res.json();
+};
 
 function App() {
+  const playersPromise = fetchPlayer();
+
   return (
     <>
-      <div className="navbar bg-base-100 shadow-sm">
-        <div className="flex-1">
-          <a className="btn btn-ghost text-xl">daisyUI</a>
-        </div>
-        <div className="flex-none">
-          <ul className="menu menu-horizontal px-1">
-            <li>
-              <a>Link</a>
-            </li>
-            <li>
-              <details>
-                <summary>Parent</summary>
-                <ul className="bg-base-100 rounded-t-none p-2">
-                  <li>
-                    <a>Link 1</a>
-                  </li>
-                  <li>
-                    <a>Link 2</a>
-                  </li>
-                </ul>
-              </details>
-            </li>
-          </ul>
-        </div>
-      </div>
+      <NavBar></NavBar>
+      <Banner></Banner>
+      <Suspense
+        fallback={<span className="loading loading-bars loading-xl"></span>}
+      >
+        <Players playersPromise={playersPromise}></Players>
+      </Suspense>
     </>
   );
 }

@@ -1,0 +1,162 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 92,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1500000,
+    "playerImg": "https://ui-avatars.com/api/?name=Virat+Kohli&background=random"
+  },
+  {
+    "playerName": "Rohit Sharma",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 91,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1450000,
+    "playerImg": "https://ui-avatars.com/api/?name=Rohit+Sharma&background=random"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 93,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1550000,
+    "playerImg": "https://ui-avatars.com/api/?name=Jasprit+Bumrah&background=random"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-Rounder",
+    "rating": 90,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 1400000,
+    "playerImg": "https://ui-avatars.com/api/?name=Ben+Stokes&background=random"
+  },
+  {
+    "playerName": "Joe Root",
+    "playerCountry": "England",
+    "playerType": "Batsman",
+    "rating": 89,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1350000,
+    "playerImg": "https://ui-avatars.com/api/?name=Joe+Root&background=random"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 91,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1400000,
+    "playerImg": "https://ui-avatars.com/api/?name=Babar+Azam&background=random"
+  },
+  {
+    "playerName": "Shaheen Afridi",
+    "playerCountry": "Pakistan",
+    "playerType": "Bowler",
+    "rating": 90,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 1450000,
+    "playerImg": "https://ui-avatars.com/api/?name=Shaheen+Afridi&background=random"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 90,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1380000,
+    "playerImg": "https://ui-avatars.com/api/?name=Kane+Williamson&background=random"
+  },
+  {
+    "playerName": "Steve Smith",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 91,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 1420000,
+    "playerImg": "https://ui-avatars.com/api/?name=Steve+Smith&background=random"
+  },
+  {
+    "playerName": "David Warner",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 88,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 1320000,
+    "playerImg": "https://ui-avatars.com/api/?name=David+Warner&background=random"
+  },
+  {
+    "playerName": "Mitchell Starc",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 92,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 1500000,
+    "playerImg": "https://ui-avatars.com/api/?name=Mitchell+Starc&background=random"
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 89,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "price": 1250000,
+    "playerImg": "https://ui-avatars.com/api/?name=Shakib+Al+Hasan&background=random"
+  },
+  {
+    "playerName": "Mustafizur Rahman",
+    "playerCountry": "Bangladesh",
+    "playerType": "Bowler",
+    "rating": 85,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 1100000,
+    "playerImg": "https://ui-avatars.com/api/?name=Mustafizur+Rahman&background=random"
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playerType": "Wicketkeeper-Batsman",
+    "rating": 89,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "None",
+    "price": 1360000,
+    "playerImg": "https://ui-avatars.com/api/?name=Jos+Buttler&background=random"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "rating": 90,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 1400000,
+    "playerImg": "https://ui-avatars.com/api/?name=Rashid+Khan&background=random"
+  },
+  {
+    "playerName": "Mohammad Nabi",
+    "playerCountry": "Afghanistan",
+    "playerType": "All-Rounder",
+    "rating": 86,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1150000,
+    "playerImg": "https://ui-avatars.com/api/?name=Mohammad+Nabi&background=random"
+  }
+]
