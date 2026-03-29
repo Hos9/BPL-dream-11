@@ -7,7 +7,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm medium",
     "price": 1500000,
-    "playerImg": "https://ui-avatars.com/api/?name=Virat+Kohli&background=random"
+    "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
     "playerName": "Rohit Sharma",
@@ -17,7 +17,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "price": 1450000,
-    "playerImg": "https://ui-avatars.com/api/?name=Rohit+Sharma&background=random"
+    "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
     "playerName": "Jasprit Bumrah",
@@ -27,7 +27,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
     "price": 1550000,
-    "playerImg": "https://ui-avatars.com/api/?name=Jasprit+Bumrah&background=random"
+    "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
     "playerName": "Ben Stokes",
@@ -37,7 +37,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm fast-medium",
     "price": 1400000,
-    "playerImg": "https://ui-avatars.com/api/?name=Ben+Stokes&background=random"
+    "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
     "playerName": "Joe Root",
@@ -47,7 +47,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "price": 1350000,
-    "playerImg": "https://ui-avatars.com/api/?name=Joe+Root&background=random"
+    "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
     "playerName": "Babar Azam",
@@ -57,7 +57,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "price": 1400000,
-    "playerImg": "https://ui-avatars.com/api/?name=Babar+Azam&background=random"
+    "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
     "playerName": "Shaheen Afridi",
@@ -67,7 +67,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm fast",
     "price": 1450000,
-    "playerImg": "https://ui-avatars.com/api/?name=Shaheen+Afridi&background=random"
+    "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
     "playerName": "Kane Williamson",
@@ -77,7 +77,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "price": 1380000,
-    "playerImg": "https://ui-avatars.com/api/?name=Kane+Williamson&background=random"
+    "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
     "playerName": "Steve Smith",
@@ -87,7 +87,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
     "price": 1420000,
-    "playerImg": "https://ui-avatars.com/api/?name=Steve+Smith&background=random"
+    "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
     "playerName": "David Warner",
@@ -97,7 +97,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm legbreak",
     "price": 1320000,
-    "playerImg": "https://ui-avatars.com/api/?name=David+Warner&background=random"
+    "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
     "playerName": "Mitchell Starc",
@@ -107,7 +107,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm fast",
     "price": 1500000,
-    "playerImg": "https://ui-avatars.com/api/?name=Mitchell+Starc&background=random"
+    "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
     "playerName": "Shakib Al Hasan",
@@ -117,7 +117,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm orthodox",
     "price": 1250000,
-    "playerImg": "https://ui-avatars.com/api/?name=Shakib+Al+Hasan&background=random"
+    "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
     "playerName": "Mustafizur Rahman",
@@ -127,7 +127,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Left-arm fast",
     "price": 1100000,
-    "playerImg": "https://ui-avatars.com/api/?name=Mustafizur+Rahman&background=random"
+    "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
     "playerName": "Jos Buttler",
@@ -137,7 +137,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "None",
     "price": 1360000,
-    "playerImg": "https://ui-avatars.com/api/?name=Jos+Buttler&background=random"
+    "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
     "playerName": "Rashid Khan",
@@ -147,7 +147,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
     "price": 1400000,
-    "playerImg": "https://ui-avatars.com/api/?name=Rashid+Khan&background=random"
+    "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
     "playerName": "Mohammad Nabi",
@@ -157,6 +157,6 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "price": 1150000,
-    "playerImg": "https://ui-avatars.com/api/?name=Mohammad+Nabi&background=random"
+    "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   }
 ]
