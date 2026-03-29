@@ -6,7 +6,7 @@
     "rating": 92,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm medium",
-    "price": 1500000,
+    "price": 15000,
     "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
@@ -16,7 +16,7 @@
     "rating": 91,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": 1450000,
+    "price": 1450,
     "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
@@ -26,7 +26,7 @@
     "rating": 93,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
-    "price": 1550000,
+    "price": 1550,
     "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "rating": 90,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm fast-medium",
-    "price": 1400000,
+    "price": 1400,
     "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
@@ -46,7 +46,7 @@
     "rating": 89,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": 1350000,
+    "price": 1350,
     "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
@@ -56,7 +56,7 @@
     "rating": 91,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": 1400000,
+    "price": 1400,
     "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
@@ -66,7 +66,7 @@
     "rating": 90,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm fast",
-    "price": 1450000,
+    "price": 1450,
     "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
@@ -76,7 +76,7 @@
     "rating": 90,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": 1380000,
+    "price": 1380,
     "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
@@ -86,7 +86,7 @@
     "rating": 91,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
-    "price": 1420000,
+    "price": 1420,
     "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
@@ -96,7 +96,7 @@
     "rating": 88,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm legbreak",
-    "price": 1320000,
+    "price": 1320,
     "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
@@ -106,7 +106,7 @@
     "rating": 92,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm fast",
-    "price": 1500000,
+    "price": 1500,
     "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
@@ -116,7 +116,7 @@
     "rating": 89,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm orthodox",
-    "price": 1250000,
+    "price": 1250,
     "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
@@ -126,7 +126,7 @@
     "rating": 85,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Left-arm fast",
-    "price": 1100000,
+    "price": 1100,
     "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
@@ -136,7 +136,7 @@
     "rating": 89,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "None",
-    "price": 1360000,
+    "price": 1360,
     "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
@@ -146,7 +146,7 @@
     "rating": 90,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
-    "price": 1400000,
+    "price": 1400,
     "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   },
   {
@@ -156,7 +156,7 @@
     "rating": 86,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": 1150000,
+    "price": 1150,
     "playerImg": "https://i.ibb.co.com/3mPb8ZQV/images.jpg"
   }
 ]
